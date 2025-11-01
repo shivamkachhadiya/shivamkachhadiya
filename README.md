@@ -1,4 +1,17 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00CFFF&height=120&section=header&text=Shivam%20Kachhadiya%20💻&fontSize=35&fontColor=ffffff" />
+<p align="center">
+
+<div align="center">
+
+<a href="#"><img src="https://img.shields.io/badge/-Quant%20Finance-00C853?style=for-the-badge&logo=chartdotjs&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/-High%20Frequency%20Trading-2962FF?style=for-the-badge&logo=apachekafka&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Market%20Microstructure-00BFA5?style=for-the-badge&logo=tradingview&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Low%20Latency%20C++-FF6D00?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+
+</div>
+
+
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00CFFF&center=true&vCenter=true&lines=C%2B%2B+Developer;Quant+Research+%2F+HFT+Learner;Low+Latency+System+Enthusiast;Exploring+Tech+%2B+Finance;Welcome+to+my+GitHub!" />
