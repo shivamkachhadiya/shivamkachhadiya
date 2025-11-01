@@ -58,8 +58,8 @@
 ---
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/your-link)
-[![Gmail](https://img.shields.io/badge/-Mail-D14836?logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/shivam012/))
+[![Gmail](https://img.shields.io/badge/-Mail-D14836?logo=gmail&logoColor=white)](shivamkachhadiya012@gmail.com)
 
 ---
 
