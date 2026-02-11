@@ -1,90 +1,66 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00CFFF&height=120&section=header&text=Shivam%20Kachhadiya%20💻&fontSize=35&fontColor=ffffff" />
-<p align="center">
-
-<div align="center">
-
-<a href="#"><img src="https://img.shields.io/badge/-Quant%20Finance-00C853?style=for-the-badge&logo=chartdotjs&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/-High%20Frequency%20Trading-2962FF?style=for-the-badge&logo=apachekafka&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/-Market%20Microstructure-00BFA5?style=for-the-badge&logo=tradingview&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/-Low%20Latency%20C++-FF6D00?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
-
-</div>
-
-
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00CFFF&height=120&section=header&text=Shivam%20Kachhadiya&fontSize=35&fontColor=ffffff" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00CFFF&center=true&vCenter=true&lines=C%2B%2B+Developer;Quant+Research+%2F+HFT+Learner;Low+Latency+System+Enthusiast;Exploring+Tech+%2B+Finance;Welcome+to+my+GitHub!" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=00CFFF&center=true&vCenter=true&lines=C%2B%2B+Systems+Developer;Low-Latency+%26+Concurrency+Enthusiast;Linux+%2F+POSIX+Systems+Programming;Exploring+HFT+%26+Fintech" />
 </p>
 
 ---
 
-![Shivam's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shivamkachhadiya&theme=tokyo-night&area=true)
+## 👋 About Me
+
+- 🎓 M.Tech in Computer Science (Systems & Low-Latency Computing) at VIT Vellore  
+- 💻 Focused on **Modern C++ (C++17/20)**, **multithreading**, and **Linux systems programming**  
+- ⚙️ Building projects around **lock-free messaging**, **order matching engines**, and **Unix-style shells**  
+- 📚 Practicing **data structures & algorithms** regularly (LeetCode + GeeksforGeeks)  
+- 📈 Exploring **high-frequency trading (HFT)** and **trading systems** from the **systems side (low latency, OS, networking)**  
+- 🎯 Long-term goal: **C++ Systems Engineer / Low-Latency Developer** in **HFT, fintech, or trading tech**
+
+---
+
+## 🧠 Tech Stack
+
+**Languages:** C++17/20, C, Python, Java, C#  
+**Systems:** Linux, POSIX APIs, processes, signals, IPC, file descriptors  
+**Concurrency:** threads, mutexes, condition variables, `std::atomic`, lock-free queues  
+**Networking:** TCP/IP sockets, basic UDP, high-throughput messaging  
+**Tools:** Git, CMake, GCC/Clang, GDB, Valgrind, VS Code  
+
+---
+
+## 🚧 Current Focus
+
+- Low-latency C++: memory models, cache behaviour, lock-free data structures  
+- Linux/OS internals: processes, scheduling, I/O, pipes, signals  
+- Competitive programming for problem‑solving speed  
+- Reading about market microstructure & trading infrastructure (not strategies)
+
+---
+
+## 🔍 Featured Projects
+
+- ⚡ **Lock-Free Messaging Framework (C++20)**  
+  Single-producer single-consumer ring buffer using `std::atomic` and cache-line alignment, reaching multi‑million messages/sec with sub‑microsecond median latency.
+
+- 📈 **High-Frequency Style Order Matching Engine (C++17)**  
+  Limit order book with price–time priority, O(1) insert/cancel/execute using `unordered_map` + `deque`, microsecond‑level matching on synthetic order flow.
+
+- 🐚 **Linux Command Line Shell (C++17, POSIX)**  
+  Unix-style shell built from scratch using `fork`, `execvp`, `waitpid`, `dup2`, `pipe`, supporting redirection, pipelines, background jobs, and basic built-ins.
+
+- 💳 **OOP Banking System (C++17)** *(in progress)*  
+  Account hierarchy (savings/current/fixed) using inheritance and polymorphism, with basic transaction and interest logic.
+
+> Repos are being actively cleaned up with better READMEs, build instructions (CMake), and benchmarks.
+
+---
+
+## 📊 GitHub Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shivamkachhadiya&theme=tokyo-night&area=true)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shivamkachhadiya&color=blueviolet&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/shivamkachhadiya?label=Followers&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/shivamkachhadiya?style=for-the-badge" />
-</p>
-
-
-<div align="center">
-
-  ![GitHub Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=shivamkachhadiya&theme=tokyonight)
-
-</div>
-
-
-### 🚀 About Me
-- 💻 Focused on **C++ Development** and **System Programming**
-- 📈 Exploring **Quantitative Finance**, **Market Microstructure**, and **High-Frequency Trading**
-- ⚙️ Building strong fundamentals in **OS Algorithms**, **Multithreading**, and **Performance Optimization**
-- 🧩 Practicing **Data Structures & Algorithms** for real-world trading and fintech systems
-- 🌱 Currently developing a **Banking Simulation & Low-Latency Order Matching Project**
-- 🎯 Goal: Become a **Quant Developer / C++ Developer** in the **FinTech or HFT** domain
-
----
-
-### 🎯 2025 Goals
-- 🔹 Build **Low-Latency Trading Engine** (C++17)
-- 🔹 Publish a **Quant Research Blog**
-- 🔹 Contribute to **Open-Source Finance Libraries**
-- 🔹 Land a **Quant Dev / HFT Internship**
-
-### 🧠 Tech Stack & Tools
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-0078D4?logo=visualstudiocode&logoColor=white)
-![GCC](https://img.shields.io/badge/-GCC-6C6C6C?logo=gnu&logoColor=white)
-![CMake](https://img.shields.io/badge/-CMake-064F8C?logo=cmake&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
-
----
-
-### 📚 Current Learning Path
-- 🔹 **Low-Latency C++** (memory models, cache optimization, lock-free structures)
-- 🔹 **Quantitative Concepts** (derivatives, PE ratio, portfolio theory)
-- 🔹 **System Design** for trading applications
-- 🔹 **Competitive Coding** for problem-solving efficiency
-
----
-
-
-### 🧩 Featured Projects
-- 💸 **Banking System Project** – Object-oriented C++ project with account management, transactions, and interest calculation  
-- ⚡ **CPU Scheduling Simulator** – Implemented classical OS algorithms (FCFS, SJF, SRTF, Priority, RR)  
-- 📊 **Quant Strategy Sandbox (in progress)** – Simulating trading algorithms with latency visualization  
-- 🧮 **Math & Graph Module** – Visualizing calculus and matrix concepts for quant interviews  
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivamkachhadiya&show_icons=true&theme=radical" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamkachhadiya&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivamkachhadiya&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamkachhadiya&theme=tokyonight" height="160" />
 </p>
 
 <p align="center">
@@ -93,16 +69,12 @@
 
 ---
 
-### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/shivam012/)
-[![Gmail](https://img.shields.io/badge/-Mail-D14836?logo=gmail&logoColor=white)](mailto:shivamkachhadiya012@gmail.com)
+## 🌐 Connect
 
----
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/shivam012/)
+[![Mail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:kshivamp012@gmail.com)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/kshivay/)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shivamkachhadiya&label=Profile+Views&color=brightgreen" alt="views"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shivamkachhadiya/shivamkachhadiya/main/coding.gif" width="400" />
 </p>
